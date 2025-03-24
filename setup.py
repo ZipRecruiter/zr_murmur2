@@ -3,7 +3,7 @@ from distutils.sysconfig import get_python_inc
 
 setup(
     name='zr_murmur2',
-    version='3.4.1',
+    version='3.4.2',
     ext_modules=[
         Extension(
             "zr_murmur2",
