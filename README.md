@@ -3,7 +3,7 @@
 # Murmur2
 This is Murmur2 hash wrapper for Python.
 
-This was forked and extended from https://www.github.com/orion46/murmur2 
+This was forked and extended from https://github.com/gsmcwhirter/zr_murmur2.
 
 ## How to install
 
